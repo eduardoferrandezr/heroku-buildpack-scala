@@ -1,3 +1,7 @@
+You can use this way
+
+heroku create --stack cedar --buildpack https://github.com/eduardoferrandezr/heroku-buildpack-scala.git
+
 Heroku buildpack: Scala
 =========================
 
